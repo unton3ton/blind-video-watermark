@@ -23,3 +23,12 @@ pip install .
 
 1. The documentations are hosted on this repo's [Wiki Page](https://github.com/eluv-io/blind-video-watermark/wiki). Check this [page](https://github.com/eluv-io/blind-video-watermark/wiki/CLI) for examples and documentations of the command line interface.
 2. Play with the examples in `examples` directory. All sample videos, images and watermarks are included inside. Take a look at the [doc](https://github.com/eluv-io/blind-video-watermark/wiki/Lib) for various interfaces for developers.
+
+![](https://raw.githubusercontent.com/unton3ton/blind-video-watermark/main/ff0.PNG)
+![](https://raw.githubusercontent.com/unton3ton/blind-video-watermark/main/ff.PNG)
+
+![](https://github.com/unton3ton/blind-video-watermark/blob/main/kikicut.avi)
+
+## Source
+
+* [Конвертируем видео с FFmpeg](https://trofimovdigital.ru/blog/convert-video-with-ffmpeg)
